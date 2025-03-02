@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head></head>
+
+
+<body>
+
+<div id="capture-container" style="display: flex; justify-content: center; gap: 70px; padding: 4% 6%;">
+    <img src="../assets/intro_a.png" alt="Image 1" style="width: 15%; height: auto;">
+    <img src="../assets/intro_d.png" alt="Image 1" style="width: 15%; height: auto;">
+    <img src="../assets/intro_b.png" alt="Image 2" style="width: 15%; height: auto;">
+    <img src="../assets/intro_c.png" alt="Image 3" style="width: 15%; height: auto;">
+    <img src="../assets/intro_e.png" alt="Image 1" style="width: 15%; height: auto;">
+</div>
+
+<button id="save">Save as Image</button>
+
+  <!-- Load html2canvas -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+
+  <script>
+    // Ensure all fonts are loaded before enabling the button
+    document.fonts.ready.then(function() {
+      document.getElementById("save").onclick = function() {
+        // Target the entire container, which includes both the title and the image
+        html2canvas(document.querySelector("#capture-container")).then(canvas => {
+          const link = document.createElement("a");
+          link.download = "pet-matcher-title-image.png";
+          link.href = canvas.toDataURL("image/png");
+          link.click();
+        }).catch(function(error) {
+          console.error('Error capturing the image:', error);
+        });
+      };
+    });
+  </script>
+
+
+
+</body>
+
+
+</html>
