@@ -35,10 +35,10 @@ This project was developed as a capstone project for an undergraduate computer s
 
 If you have any questions or would like to contribute, feel free to:  
 
-- Open an **issue** in the repository.  
-- Submit a **pull request** with improvements or fixes.  
+- Open an [issue](https://github.com/duanegoodner/pet-searcher/issues) in the repository.  
+- Submit a [pull request](https://github.com/duanegoodner/pet-searcher/pulls) with improvements or fixes.  
 
-We appreciate your feedback and contributions! 🚀
+We appreciate your feedback and contributions!
 
 
 
