@@ -2,16 +2,16 @@
 
 A cross-platform mobile app (**iOS & Android**) to match animal-loving people with animals in need of homes.
 
-
-<!-- <div style="display: flex; justify-content: center; gap: 60px; padding: 2% 10%;">
-    <img src="docs/assets/intro_a.png" alt="Image 1" style="width: 15%; height: auto;">
-    <img src="docs/assets/intro_d.png" alt="Image 1" style="width: 15%; height: auto;">
-    <img src="docs/assets/intro_b.png" alt="Image 2" style="width: 15%; height: auto;">
-    <img src="docs/assets/intro_c.png" alt="Image 3" style="width: 15%; height: auto;">
-    <img src="docs/assets/intro_e.png" alt="Image 1" style="width: 15%; height: auto;">
-</div> -->
-
 ![TitleImage](docs/assets/pet-matcher-title-image.png)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=fflat&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
+
+
 
 ## Description
 
