@@ -3,14 +3,15 @@
 A cross-platform mobile app (**iOS & Android**) to match animal-loving people with animals in need of homes.
 
 
-<div style="display: flex; justify-content: center; gap: 60px; padding: 2% 10%;">
+<!-- <div style="display: flex; justify-content: center; gap: 60px; padding: 2% 10%;">
     <img src="docs/assets/intro_a.png" alt="Image 1" style="width: 15%; height: auto;">
     <img src="docs/assets/intro_d.png" alt="Image 1" style="width: 15%; height: auto;">
     <img src="docs/assets/intro_b.png" alt="Image 2" style="width: 15%; height: auto;">
     <img src="docs/assets/intro_c.png" alt="Image 3" style="width: 15%; height: auto;">
     <img src="docs/assets/intro_e.png" alt="Image 1" style="width: 15%; height: auto;">
-</div>
+</div> -->
 
+![TitleImage](docs/assets/pet-matcher-title-image.png)
 
 ## Description
 
